@@ -10,9 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts){
-  
- var john = []
- 
+  var john = []
   let i = 0
   while (i < facts.length){
    john.push(`${facts[i]}!!!`)
@@ -21,10 +19,11 @@ function johnLennonFacts(facts){
   return john
 }
 
-function iLoveTheBeatles (n)
+function iLoveTheBeatles (n){
   
   var love = []
-  
+  let i = 0
   do{
-    love.push("I love the Beatles!")
+    love.push("I love the Beatles!") 
   }
+}
