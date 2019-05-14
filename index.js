@@ -25,6 +25,4 @@ function iLoveTheBeatles (n)
   
   var love = []
   
-  do{
-    "I love the Beatles"
-  }
+  lov
