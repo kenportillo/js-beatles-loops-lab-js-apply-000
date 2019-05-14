@@ -8,6 +8,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return theBeatles
 }
+
 function johnLennonFacts(facts){
   
  var john = []
@@ -19,3 +20,9 @@ function johnLennonFacts(facts){
   }
   return john
 }
+
+function iLoveTheBeatles (n)
+  
+  var love = []
+  
+  
